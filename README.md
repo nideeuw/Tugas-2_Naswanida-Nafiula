@@ -16,3 +16,5 @@ Note : Dibuat oleh user romeojeremiah. Menggunakan bahasa CSS, JavaScript, HTML.
 
 https://github.com/juice-shop/juice-shop.git
 Note : Dibuat oleh user juice-shop. Menggunakan bahasa TypeScript, JavaScript, HTML, SCSS, Solidity, Pug, and Other. Isi repo mengenai aplikasi web toko online jus
+
+Link To Do Trello : https://trello.com/b/7grETzsw/tugas-2naswanida-nafiula
